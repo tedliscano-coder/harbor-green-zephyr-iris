@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "RUN FROM OLIVER",
+      "hasCanvas": true,
+      "bodyTextLen": 184,
+      "bodyTextHash": "b4280a66cb16f960527cb231b25bc86ec29e8fe17f39aa4412178a9e88a0aace",
+      "bodyTextPrefix": "LOADING UNLIMITED LEVELS RUN FROM OLIVER He is inside the house,",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "RUN FROM OLIVER",
+      "hasCanvas": true,
+      "bodyTextLen": 176,
+      "bodyTextHash": "6347a150b47bc2b094a792ecdc9753114d0fbd01b8cc87677a07f8eea362e884",
+      "bodyTextPrefix": "UNLIMITED LEVELS RUN FROM OLIVER He is inside the house, the yar",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
